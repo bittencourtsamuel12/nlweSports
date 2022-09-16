@@ -16,4 +16,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 ## Contato 
 
-bittencourtlry@gnail.com
+bittencourtlry@gmail.com
